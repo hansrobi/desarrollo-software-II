@@ -1,0 +1,1 @@
+Manjaro Linux es una distribución basada en Arch Linux que ofrece una experiencia de usuario amigable con todas las ventajas de Arch. Es conocida por su facilidad de instalación, su estabilidad y el acceso a los últimos paquetes de software a través del repositorio Arch User Repository (AUR).
