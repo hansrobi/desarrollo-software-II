@@ -1,3 +1,27 @@
+commit ba0e5ffa79e5582ae0a6d2d2f96e039100e23c30
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 02:05:33 2024 -0500
+
+    Hook pre-push modificado
+
+commit 7bc8f0800d5d8688fc6ccedf698912d3b0a4c8e6
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 01:59:13 2024 -0500
+
+    Agregar scripts de hooks al repo
+
+commit 7d5bec7e5d3f9c068fc79fa7b4d5558dc3ccc715
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 01:49:08 2024 -0500
+
+    script de hooks creados
+
+commit 78c04675c9995bedfb5a83d634c35f00be5cb410
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 00:38:17 2024 -0500
+
+    log añadido
+
 commit 5cd9985055d30960c32387838baf039ad747e964
 Merge: ec14ac5 371ba6e
 Author: IF616AIN_182937 <182937@unsaac.edu.pe>
