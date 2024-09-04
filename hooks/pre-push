@@ -1,6 +1,6 @@
-#!/ bin/ bash
+#!/bin/bash
 echo "Ejecutando pruebas antes del push..."
 if ! make test; then
-	echo "Las ␣ pruebas ␣ fallaron .␣ Push ␣ abortado ."
-	exit 1
+    echo "Las pruebas fallaron. Abortando push."
+    exit 1
 fi
