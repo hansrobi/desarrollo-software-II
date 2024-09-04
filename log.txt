@@ -1,0 +1,67 @@
+commit 5cd9985055d30960c32387838baf039ad747e964
+Merge: ec14ac5 371ba6e
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 00:34:43 2024 -0500
+
+    Merge branch 'rama-manjaro'
+    Añade archivo3.txt con información sobre Manjaro Linux
+
+commit 371ba6e46f22de70e8dab9897c81a3b82bea8cc7
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 00:32:34 2024 -0500
+
+    archivo manjaro-linux.txt modificado
+
+commit 33d94369a0f2bf49e79db0488b75c0ed04e580de
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 00:31:51 2024 -0500
+
+    archivo manjaro-linux.txt creado
+
+commit ec14ac54d8df34ba69001dd9785b58148f9de8c0
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 00:24:39 2024 -0500
+
+    archivo robotica.txt modificado
+
+commit 95105fce00e1f5b9abbdc527677c2737fa03a15d
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 00:23:34 2024 -0500
+
+    archivo robotica.txt creado
+
+commit 44792bfe3197103a9687c91840220ecee7688433
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 00:19:22 2024 -0500
+
+    sex-pistols.txt cambiado a inglés
+
+commit 3d1f9fb13749503e08d8feca0bca5b794561d242
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Wed Sep 4 00:15:41 2024 -0500
+
+    archivo sex-pistols añadido
+
+commit a3e143f465296153b3f2d607db02dfe843a06669
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Thu Aug 29 23:24:26 2024 -0500
+
+     Guia modificada
+
+commit 7892e7396e6964c6dae22755301620f2f3e2846a
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Thu Aug 29 23:03:54 2024 -0500
+
+    Guia arreglada
+
+commit 22d20408b0bf1d77e4f410e57b22d7d7014fdc12
+Author: IF616AIN_182937 <182937@unsaac.edu.pe>
+Date:   Thu Aug 29 22:30:38 2024 -0500
+
+    Guia de instalacion agregada
+
+commit 3e805d8e36b1c51522a2a67f6abe6d267d8cc80f
+Author: hansrobi <110256746+hansrobi@users.noreply.github.com>
+Date:   Thu Aug 29 21:45:05 2024 -0500
+
+    Initial commit
