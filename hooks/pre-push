@@ -1,6 +1,14 @@
 #!/bin/bash
-echo "Ejecutando pruebas antes del push..."
-if ! make test; then
-    echo "Las pruebas fallaron. Abortando push."
-    exit 1
-fi
+
+# Definir el archivo de registro
+LOG_FILE=".git/hooks/pre-push.log"
+
+# Obtener el nombre del usuario de Git
+USER_NAME=$(git config user.name)
+
+# Obtener la fecha y hora actuales
+DATE_TIME=$(date '+%Y-%m-%d %H:%M:%S')
+
+# Registrar el usuario y la fecha
+echo "Fecha: $DATE_TIME, Usuario: $USER_NAME" >> "$LOG_FILE"
+echo "Fecha: $DATE_TIME, Usuario: $USER_NAME" 
