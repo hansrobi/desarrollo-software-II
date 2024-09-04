@@ -1,0 +1,5 @@
+#!/ bin/ bash
+if git diff-tree -r --name-only --no-commit-id ORIG_HEAD HEAD | grep -q ’package.json’; then
+	echo "package.json ha cambiado. Instalando, dependencias..."
+	npm install
+fi

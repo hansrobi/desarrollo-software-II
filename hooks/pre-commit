@@ -1,0 +1,9 @@
+#!/bin/bash
+files=$(git diff --cached --name-only --diff-filter=ACM | grep '\.py$')
+if [ "$files" != "" ]; then
+    unformatted=$(black --check $files)
+    if [ $? -ne 0 ]; then
+        echo "Hay archivos sin formatear. Formatea el código antes de hacer commit."
+        exit 1
+    fi
+fi
