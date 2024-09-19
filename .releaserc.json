@@ -4,8 +4,7 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     {
-      "path": "@semantic-release/git",
-      "assets": ["dist/**/*"]
+      "path": "@semantic-release/git"
     }
   ]
 }
